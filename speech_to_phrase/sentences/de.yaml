@@ -90,6 +90,7 @@ data:
   #     - "lock"
 
   # generic on/off
+  - sentences:
       - "(schalt|mach)[e] [den|die|das] {name} (an|ein|aus)"
       - "(schalt|mach)[e] (an|ein|aus) [den|die|das] {name}"
       - "(schalt|mach)[e] [den|die|das] {name} (an|ein|aus) in [der|dem] {area}"
